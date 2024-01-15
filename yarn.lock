@@ -1286,6 +1286,11 @@ update-browserslist-db@^1.0.13:
     escalade "^3.1.1"
     picocolors "^1.0.0"
 
+vite-plugin-css@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/vite-plugin-css/-/vite-plugin-css-1.0.4.tgz#11a9285c3748c45b37c017843f5754aaf7991c19"
+  integrity sha512-5Tj8Lc7uwlLVd3Ns8ixDH9CjjAPS12OuIiheY4IOZuiaOwH9sAEzgB/svNMmW28ePimaNTPfyTrRX8ZONjqFqA==
+
 vite@^4.2.0:
   version "4.5.1"
   resolved "https://registry.yarnpkg.com/vite/-/vite-4.5.1.tgz#3370986e1ed5dbabbf35a6c2e1fb1e18555b968a"
