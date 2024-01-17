@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
   return (
     <section className="h-wrapper">
-        <di className="flexCenter paddings innerWidth h-container">
+        <div className="flexCenter paddings innerWidth h-container">
            <img src="./logo.png" alt="logo" width={100} /> 
 
            <div className="h-menu flexCenter">
@@ -16,7 +16,7 @@ const Header = () => {
             </button>
            </div>
 
-        </di>
+        </div>
     </section>
   )
 }
